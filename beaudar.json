@@ -1,5 +1,6 @@
 {
   "origins": [
-    "https://gend-max.gitee.io/"
+    "https://gend-max.gitee.io/",
+    "http://localhost:4000"
   ]
 }
